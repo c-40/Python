@@ -1,0 +1,459 @@
+SQLite format 3   @     \              :                                                 \ ._   ˚    ˚Z~RÀ                                                      Ç) WWÉ1tablesqlitebrowser_rename_column_new_tablesÅc WWÅc WWÇ%tablesqlitebrowser_rename_column_new_tablesqlitebrowser_rename_column_new_tableCREATE TABLE `sqlitebrowser_rename_column_new_table` (
+Å= ÇYtablebillsbillsCREATE TABLE `bills` (
+	`cus_name`	TEXT,
+	`cus_add`	TEXT,
+	`items`	TEXT,
+	`Total_cost`	INTEGER,
+	`bill_dt`	TEXT,
+	`bill_no`	INTEGER,
+	`bill`	TEXT,
+	`val_id`	INTEGER
+)%9 indexsqlite_autoindex_med_1medÅC ÇmtablemedmedCREATE TABLE "med" (
+	`sl_no`	int NOT NULL UNIQUE,
+	`name`	text NOT NULL,
+	`type`	text,
+	`qty_left`	int,
+	`cost`	int,
+	`purpose`	text,
+	`expdt`	date,
+	`loc`	text,
+	`mfg`	text
+)   /9 indexsqlite_autoindex_cus_2cus      %9 indexsqlite_autoindex_cus_1cus} ÅatablecuscusCREATE TABLE "cus" (
+	`name_vc`	TEXT NOT NULL,
+	`add_vc`	TEXT NOT NULL,
+	`vc_id`	INTEGER NOT NULL UNI   
+   ƒ«êj)˜ƒõ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        )! ascacaººvv12-12-200312medi1
+!crocinaspirinheadache10-02-20323medi0
+!vomikindmed$-vomit19-12-20176mankind?
+%+!alz142tranquilizertRanti-depressant05-11-20172scime"
+!newdn+dn01-11-20173old  3
+!disprinaspirinûheadache21-01-20223medi  7
+	!!!combiflameaspirinÙpain,fever04-11-20171medi
+    —  —                                                                                                                                                                                                       Ü+Ñ[
+ å
+vasemvit[3, 1, 5] Æ1/11/2017
+
+
+===============================================
+                                  No :603
+
+         
+
+   † ÛÂ«∏†’                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Å# qwertyvit vellore
+| advikavit dishavit
+Å karanf567 harshvit
+ yashvit
+   ﬁ ¸ˆÍ‰ﬁÿ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       		
+    “  “                                                                                                                                                                                                        Ü*É
+ å
+karanvit[1, 3, 2]l1/11/2017
+
+
+===============================================
+                                  No :408
+
+          MEDPLUS CHEMIST AND DRUGGIST
+  34, M.G. Road, Kolkata-700 014, West Bengal
+
+-----------------------------------------------
+Name: karan
+Address: vit
+-----------------------------------------------
+Product                      Qty.       Price
+-----------------------------------------------
+combiflame                   2           48.0
+new                          4           48.0
+disprin                      1           12.0
+
+-----------------------------------------------
+Total                                Rs 108.0
+-----------------------------------------------
+
+Dealer 's signature:___________________________
+===============================================
+
+   ⁄ ¸ˆË‚⁄Ó                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Ç Ç||  É É		
+                                                                                                                                                                                                                                                              ÖxÖmÖtÑr
+ ã1
+karanvit[1, 2]`2/11/2017
+
+
+===============================================
+                                  No :626
+
+          MEDPLUS CHEMIST AND DRUGGIST
+  VIT University, Katpadi, Vellore, T.M.
+
+-----------------------------------------------
+Name: karan
+Address: vit
+-----------------------------------------------
+Product                      Qty.       Price
+-----------------------------------------------
+combiflame                   2           48.0
+disprin                      4           48.0
+
+-----------------------------------------------
+Total                                 Rs 96.0
+-----------------------------------------------
+
+Dealer 's signature:___________________________
+===============================================
+
+    u  u                                                                                                           áj
+  çIharshvit[5, 2]@fÃÃÃÃÃÕ2/11/2017
+
+
+===============================================
+                                  No :106
+
+          MEDPLUS CHEMIST AND DRUGGIST
+  VIT University, Katpadi, Vellore, T.M.
+
+-----------------------------------------------
+Name: harsh
+Address: vit
+-----------------------------------------------
+Product                      Qty.       Price
+-----------------------------------------------
+vomikind                     4          180.0
+disprin                      4           48.0
+
+-----------------------------------------------
+Total                                   228.0
+Valued customer Discount  -45.599999999999994
+-----------------------------------------------
+Total                                Rs 182.4
+-----------------------------------------------
+
+Dealer 's signature:___________________________
+===============================================
+
+    ©  ©                                                               á3Ü,
+ é%harshvit[5, 2, 1] ®2/11/2017
+
+
+===============================================
+   ÜSÖ%
+ åokaranf567[2]02/11/2017
+
+
+===============================================
+                                  No :677
+
+          MEDPLUS CHEMIST AND DRUGGIST
+  VIT University, Katpadi, Vellore, T.M.
+
+-----------------------------------------------
+Name: karan
+Address: f567
+-----------------------------------------------
+Product                      Qty.       Price
+-----------------------------------------------
+disprin                      5           60.0
+
+-----------------------------------------------
+Total                                    60.0
+Valued customer Discount                -12.0
+-----------------------------------------------
+Total                                 Rs 48.0
+-----------------------------------------------
+
+Dealer 's signature:___________________________
+===============================================
+ É
+    —  —                                                   á?Çf
+  é1harshvit[2, 5, 1]@afffffg2/11/2017
+
+
+===============================================
+                                  No :358
+
+      Ü+Ç+
+ åharshvit[3, 2, 3]l1/11/2017
+
+
+===============================================
+                                  No :299
+
+          MEDPLUS CHEMIST AND DRUGGIST
+  34, M.G. Road, Kolkata-700 014, West Bengal
+
+-----------------------------------------------
+Name: harsh
+Address: vit
+-----------------------------------------------
+Product                      Qty.       Price
+-----------------------------------------------
+new                          2           24.0
+disprin                      3           36.0
+new                          4           48.0
+
+-----------------------------------------------
+Total                                Rs 108.0
+-----------------------------------------------
+
+Dealer 's signature:___________________________
+===============================================
+
+m î î|||m                      Åz WWÇStablesqlitebrowser_rename_column_new_tablesqlitebrowser_rename_column_new_tableCREATE TABLE `sqlitebrowser_rename_column_new_table` (
+	`name_vc`	TEXT NOT NULL,
+	`add_vc`	TEXT NOT NULL,
+	`vc_id`	INTEGER Ni}W indexsqlite_autoindex_sqlitebrowser_rename_column_new_table_1sqlitebrowser_rename_column_new_table%9 indexsqlite_autoindex_cus_1cus ÅV É
+tablebillsbills
+CREATE TABLE "bills" (
+	`cus_name`	TEXT,
+	`cus_add`	TEXT,
+	`items`	TEXT,
+	`Total_cost`	INTEGER,
+	`bill_dt`	TEXT,
+	`bill_no`	INTEGER,
+	`bill`	TEXT,
+	`val_id`	INTEGER,
+	PRIMARY KEY(`bill_no`)
+) 9     Å ÇtablecuscusCREATE TABLE "cus" (
+	`name_vc`	TEXT NOT NULL,
+	`add_vc`	TEXT NOT NULL,
+	`vc_id`	INTEGER NOT NULL UNIQUE,
+	PRIMARY KEY(`vc_id`)
+)   Ì9 indexsqlite_autoindex_med_1med   ∆ÇmtablemedmedCREATE TABLE "med" (
+	`sl_no`	int NOT NULL UNIQUE,
+	`name`	text NOT NULL,
+	`type`	text,
+	`qty_left`	int,
+	`cost`	int,
+	`purpose`	text,
+	`expdt`	date,
+	`loc`	text,
+	`mfg`	text
+)   ∏   ˚ı ‹ÓæË‚÷–∏ƒ                                                                                                                                                                             Ü+Ñ.
+ å	yashvit1[1, 1, 3] ¿1/11/2017
+
+
+===============================================
+                                  No :558
+
+          MEDPLUS CHEMIST AND DRUGGIST
+  34, M.G. Road, Kolkata-700 014, West Bengal
+
+-----------------------------------------------
+Name: yash
+Address: vit1
+-----------------------------------------------
+Product                      Qty.       Price
+-----------------------------------------------
+combiflame                   2           48.0
+combiflame                   5          120.0
+new                          2           24.0
+
+-----------------------------------------------
+Total                                Rs 192.0
+-----------------------------------------------
+
+Dealer 's signature:____   Öm   Ñ.   Ü)   Çf   
+Ö%   Ñr   É   Ñ[   ÑG   Ñ%    
+Ç+   	j
+   ’ Ÿ¸’                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             i}W indexsqlite_autoindex_sqlitebrowser_rename_column_new_table_1sqlitebrowser_rename_column_new_table   fWWÉ_tablesqlitebrowser_rename_column_new_tablesqlitebrows%9 indexsqlite_autoindex_med_1medÅZ ÉtablemedmedCREATE TABLE "med" (
+	`sl_no`	int NOT NULL UNIQUE,
+	`name`	text NOT NULL,
+	`type`	text,
+	`qty_left`	int,
+	`cost`	int,
+	`purpose`	text,
+	`expdt`	date,
+	`loc`	text,
+	`mfg`	text,
+	PRIMARY KEY(`sl_no`)
+)%9 indexsqlite_autoindex_cus_1cus 
+    =  =                                                   á?Çf
+  é1harshvit[2, 5, 1]@afffffg2/11/2017
+
+
+===============================================
+                                  No :358
+
+          MEDPLUS CHEMIST AND DRUGGIST
+  VIT University, Katpadi, Vellore, T.M.
+
+-----------------------------------------------
+Name: harsh
+Address: vit
+-----------------------------------------------
+Product                      Qty.       Price
+-----------------------------------------------
+disprin                      5           60.0
+vomikind                     2           90.0
+combiflame                   1           24.0
+
+-----------------------------------------------
+Total                                   174.0
+Valued customer Discount   -34.79999999999998
+-----------------------------------------------
+Total                         Rs 139.20000000000002
+-----------------------------------------------
+
+Dealer 's signature:___________________________
+===============================================
+
+    ®  ®                                                                                                                                                              ÜTÑ%
+ åokaranf567[4]
+†2/11/2017
+
+
+===============================================
+                                  No :549
+
+          MEDPLUS CHEMIST AND DRUGGIST
+  VIT University, Katpadi, Vellore, T.M.
+
+-----------------------------------------------
+Name: karan
+Address: f567
+-----------------------------------------------
+Product                      Qty.       Price
+-----------------------------------------------
+alz142                       4         3400.0
+
+-----------------------------------------------
+Total                                  3400.0
+Valued customer Discount               -680.0
+-----------------------------------------------
+Total                               Rs 2720.0
+-----------------------------------------------
+
+Dealer 's signature:___________________________
+===============================================
+ É
+    —  —                                                                                                                   ÜÑG
+ çG	yashvit[4, 2]ÿ2/11/2017
+
+
+===========================================Ü+Ñ.
+ å	yashvit1[1, 1, 3] ¿1/11/2017
+
+
+===============================================
+                                  No :558
+
+          MEDPLUS CHEMIST AND DRUGGIST
+  34, M.G. Road, Kolkata-700 014, West Bengal
+
+-----------------------------------------------
+Name: yash
+Address: vit1
+-----------------------------------------------
+Product                      Qty.       Price
+-----------------------------------------------
+combiflame                   2           48.0
+combiflame                   5          120.0
+new                          2           24.0
+
+-----------------------------------------------
+Total                                Rs 192.0
+-----------------------------------------------
+
+Dealer 's signature:___________________________
+===============================================
+
+    }  }    	   
+                                                                                                      ÜÑG
+ çG	yashvit[4, 2]ÿ2/11/2017
+
+
+===============================================
+                                  No :583
+
+          MEDPLUS CHEMIST AND DRUGGIST
+  VIT University, Katpadi, Vellore, T.M.
+
+-----------------------------------------------
+Name: yash
+Address: vit
+-----------------------------------------------
+Product                      Qty.       Price
+-----------------------------------------------
+alz142                       1          850.0
+disprin                      5           60.0
+
+-----------------------------------------------
+Total                                   910.0
+Valued customer Discount               -182.0
+-----------------------------------------------
+Total                                Rs 728.0
+-----------------------------------------------
+
+Dealer 's signature:___________________________
+===============================================
+
+                                                                   á3Ü,
+ é%harshvit[5, 2, 1] ®2/11/201á
+Ü)
+  çQ	yashvit[3, 1]@S3333342/11/2017
+
+
+===============================================
+                                  No :809
+
+        ÖxÖm
+ ã9	yashvit[1, 2] ê1/11/2017
+
+
+===============================================
+                                  No :749
+
+          MEDPLUS CHEMIST AND DRUGGIST
+  34, M.G. Road, Kolkata-700 014, West Bengal
+
+-----------------------------------------------
+Name: yash
+Address: vit
+-----------------------------------------------
+Product                      Qty.       Price
+-----------------------------------------------
+combiflame                   5          120.0
+disprin                      2           24.0
+
+-----------------------------------------------
+Total                                Rs 144.0
+-----------------------------------------------
+
+Dealer 's signature:___________________________
+===============================================
+
+    I  I                                                               á3Ü,
+ é%harshvit[5, 2, 1] ®2/11/2017
+
+
+===============================================
+                                  No :812
+
+          MEDPLUS CHEMIST AND DRUGGIST
+  VIT University, Katpadi, Vellore, T.M.
+
+-----------------------------------------------
+Name: harsh
+Address: vit
+-----------------------------------------------
+Product                      Qty.       Price
+-----------------------------------------------
+vomikind                     2           90.0
+disprin                      6           72.0
+combiflame                   2           48.0
+
+-----------------------------------------------
+Total                                   210.0
+Valued customer Discount                -42.0
+-----------------------------------------------
+Total                                Rs 168.0
+-----------------------------------------------
+
+Dealer 's signature:___________________________
+===============================================
+
+    r  r                                                                                                        á
+Ü)
+  çQ	yashvit[3, 1]@S3333342/11/2017
+
+
+
+
